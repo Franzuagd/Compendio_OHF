@@ -55,3 +55,6 @@ Por ejemplo, yo prefiero soluciones concisas y formales, mientras que otros pued
 - redacción de soluciones,
 - revisión,
 - o simplemente dando ideas para mejorar el formato y estilo del libro.
+
+## Lista de personas que han colaborado: 
+(Se actualizará con el tiempo)
