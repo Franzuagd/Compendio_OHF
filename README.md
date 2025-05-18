@@ -1,5 +1,13 @@
 # Libro de Problemas y Soluciones de la Olimpiada de Física de Honduras
 
+📅 **May 18, 2024**  
+🗣️ _This is a project done in Spanish._  
+🇺🇸 **Note for English speakers**:  
+This is a collaborative project to compile, typeset, and solve all the problems from the Honduran Physics Olympiad.  
+The goal is to produce a well-written LaTeX book with pedagogical and elegant solutions to every problem, preserving a national archive and providing learning resources for future students.
+
+---
+
 Los problemas de olimpiadas son muy ingeniosos y, a menudo, no estándar. Yo mismo he colaborado en la creación de decenas de problemas.  
 Lamentablemente, muchas veces sus soluciones están ausentes, de modo que la oportunidad pedagógica que estos problemas ofrecen se pierde, ya que el alumno no es capaz de identificar y corregir sus errores.
 
@@ -47,4 +55,3 @@ Por ejemplo, yo prefiero soluciones concisas y formales, mientras que otros pued
 - redacción de soluciones,
 - revisión,
 - o simplemente dando ideas para mejorar el formato y estilo del libro.
-
