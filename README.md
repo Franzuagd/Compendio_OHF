@@ -56,5 +56,56 @@ Por ejemplo, yo prefiero soluciones concisas y formales, mientras que otros pued
 - revisión,
 - o simplemente dando ideas para mejorar el formato y estilo del libro.
 
-## Lista de personas que han colaborado: 
+---
+
+## 🙌 Cómo subir tu colaboración
+
+Este proyecto avanza gracias a dos tipos de contribuciones:
+
+1. ✏️ **Transcripción de exámenes** a formatos editables (Word o LaTeX)  
+2. 🧮 **Redacción de soluciones** en Word o LaTeX
+
+### 1. 📝 Transcripción de exámenes
+
+1. 🔍 **Verifica si ya está hecho**  
+   Consulta el registro aquí:  
+   https://docs.google.com/spreadsheets/d/1v9YRnaufOC984TJRyDEG6FMpty7rAbKN6X3xc5e-mgY/edit?usp=sharing
+
+2. 🛠️ **Estrategia de transcripción**  
+   - Copia el PDF o imagen del examen a ChatGPT y pídele el formato deseado.  
+   - Corrige manualmente:  
+     - ✅ Las ecuaciones deben estar en modo ecuación (no como imagen).  
+     - 📷 Si hay figuras, extrae cada imagen (screenshot o recorte) y guárdala aparte en PDF, PNG o JPG.
+
+3. 📄 **Plantillas de envío**  
+   - **LaTeX:** https://www.overleaf.com/read/vkfmwfwvkgby#4f4ed4  
+   - **Word:** escribir título y enunciados de forma simple (sin decoraciones).
+
+4. 🚀 **Formulario de transcripción**  
+   https://docs.google.com/forms/d/e/1FAIpQLSe0a41_flnfO7YFjjv8KiA4BCIMUkl6xmhIrTRrUBFcNdJHkw/viewform?usp=header
+
+---
+
+### 2. 📖 Redacción de soluciones
+
+1. 🔍 **Verifica disponibilidad**  
+   Usa el mismo registro de exámenes arriba.
+
+2. 🛠️ **Estrategia de redacción**  
+   - Resolver **un solo problema** (plantilla mínima):  
+     https://www.overleaf.com/read/thvwtqvsdjzf#582b41  
+   - Resolver **el examen completo** (recomendado):  
+     https://www.overleaf.com/read/vkfmwfwvkgby#4f4ed4  
+   - En Word: redactar enunciados y soluciones de forma directa.
+
+3. 🚀 **Formulario de soluciones**  
+   https://docs.google.com/forms/d/e/1FAIpQLSekv1JXQCRRtNPemoO0frqWxJKzbvP819_Qw0hXrcUBH4VNkg/viewform?usp=dialog
+
+---
+
+## 🙋‍♀️ Lista de personas que han colaborado
 (Se actualizará con el tiempo)
+
+---
+
+🎉 ¡Gracias por tu apoyo! Tu contribución hace posible este compendio.
